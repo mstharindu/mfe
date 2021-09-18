@@ -3,7 +3,7 @@ name: mfe-container-aws-deploy
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - "packages/container/**"
 
